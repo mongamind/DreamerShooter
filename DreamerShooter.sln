@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{E7004E87-5201-6D87-9766-C58A38DD63DD}") = "DreamerShooter", "Assembly-CSharp.csproj", "{0721C857-03AA-F706-D50F-19756E70EB92}"
+EndProject
+Project("{E7004E87-5201-6D87-9766-C58A38DD63DD}") = "DreamerShooter", "Assembly-CSharp-Editor.csproj", "{99CB0D71-C0CF-7D60-E8DE-06671833205D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0721C857-03AA-F706-D50F-19756E70EB92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0721C857-03AA-F706-D50F-19756E70EB92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0721C857-03AA-F706-D50F-19756E70EB92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0721C857-03AA-F706-D50F-19756E70EB92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99CB0D71-C0CF-7D60-E8DE-06671833205D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99CB0D71-C0CF-7D60-E8DE-06671833205D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99CB0D71-C0CF-7D60-E8DE-06671833205D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99CB0D71-C0CF-7D60-E8DE-06671833205D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
